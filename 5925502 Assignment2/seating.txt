@@ -1,0 +1,23 @@
+Undercovers
+X X X X X
+X _ _ _ X
+X _ _ _ X
+X X X X X
+
+RoboCop
+X X X X X
+X X X X X
+X X X X X
+X X X X X
+
+Predators
+_ _ _ _ X
+_ _ _ _ _
+X X X X X
+X _ _ _ _
+   
+Venom
+X X X _ _
+X _ _ X X
+X X _ _ _
+X _ X X X

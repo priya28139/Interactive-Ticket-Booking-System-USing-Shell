@@ -1,0 +1,5 @@
+[Showtimes],   [Movie Title],   [Vacancy]
+1600 - 2Oct,   RoboCop,   No
+1700 - 2Oct,   Predators,   Yes
+1300 - 2Oct,   Undercovers,   Yes
+1300 - 2Oct,   Venom,   Yes

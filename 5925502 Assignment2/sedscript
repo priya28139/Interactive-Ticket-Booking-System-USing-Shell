@@ -1,0 +1,11 @@
+		s@\(.*\),\(.*\),\(.*\)@,\2,\1,\3@g
+		s@ *,@,@g
+		s/No/SOLD OUT/g
+		s/Yes/Ticket Available/g
+		s/\[//g
+		s/\]//g
+		: width
+		s@,\([^,]\{0,18\}\),@,\1 ,@g
+		t width
+		s@^,@@g
+		s/,//g
